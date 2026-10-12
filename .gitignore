@@ -1,0 +1,10 @@
+# Сгенерированные папки сборки CLion / CMake
+cmake-build-debug/
+.idea/
+*.i
+*.s
+*.o
+
+# Исполняемые файлы
+*.out
+*.exe
